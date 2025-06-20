@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - Vulnerability Management Home Lab
-- Business Continuity Planning
+- Business Continuity Planning (https://github.com/wisdomasare/-BCP---EcoPower-Solutions.git)
 - Kioptrix 2 VM Vulnerability Analysis and Exploitation
 - Kioptrix 1 Machine Enumeration and footprinting
 - Cybersecurity Framework
