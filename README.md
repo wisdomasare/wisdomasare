@@ -2,6 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+- Active Directory Home Lab
 - Vulnerability Management Home Lab
 - Business Continuity Planning (https://github.com/wisdomasare/-BCP---EcoPower-Solutions.git)
 - Kioptrix 2 VM Vulnerability Analysis and Exploitation
@@ -11,11 +12,13 @@
 
 
 <h2> Certifications </h2>
-- CompTIA Security+ (Expected- 8/20/2025)
+- CompTIA Security+ (Expected- 8/31/2025)
 
 <h2>📺 Projects  Videos</h2>
 
-- (Vulnerability Management Home Lab) ( https://youtu.be/hH9zusOGNKA)
+- (Active Directory Home Lab) ( https://youtu.be/8ZO5l2dpsyg)
+- (Vulnerability Management Home Lab Part 1) ( https://youtu.be/k7D3WKLP3wo)
+- (Vulnerability Management Home Lab Part 2) ( https://youtu.be/dC6OoEpWG80)
 - (Kioptrix 2 VM Vulnerability Analysis and Exploitation) (https://vimeo.com/985822779?share=copy)
 - ( Kioptrix 1 Machine Enumeration and footprinting) (https://vimeo.com/975969583?share=copy)
 - (Cybersecurity Framework) (https://vimeo.com/1019186696?share=copy)
